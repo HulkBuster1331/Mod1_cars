@@ -3,7 +3,7 @@ require 'tty-prompt'
 name = gets.chomp
 
 def intro
-    puts "    Hello, and welcome to Your Perfect Car!!!\n\n
+    puts "   Hello, and welcome to Your Perfect Car!!!\n\n
     __---~~~~--__                      __--~~~~---__
     `\---~~~~~~~~\\                    //~~~~~~~~---/'  
       \/~~~~~~~~~\||                  ||/~~~~~~~~~\/ 
