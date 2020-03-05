@@ -1,6 +1,13 @@
 require_relative 'config/environment'
 
-Cli.new.start_game
+
+intro
+ready_check
+hybrid_check
+size_check
+class_check
+price_check
+drivetrain_check
 
 
 
